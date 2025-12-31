@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pkl
+*.db
+fewshot_chroma/
+.chromadb/
+.idea/
+.vscode/
+.DS_Store
